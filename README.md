@@ -1,1 +1,2 @@
-# C29-project-for-checking-an-error-
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
